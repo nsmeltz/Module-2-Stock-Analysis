@@ -3,7 +3,7 @@
 ## Overview of Project: Explain the purpose of this analysis.
    The purpose of this analysis is to evaluate the stock performance. The client, Steve, is interersted in the performance of 12 specific stocks in 2017 and 2018. He has a    spreadseet of data that gives the ticker name of the stock, date, opening price, high price, low price, closing price, adjusted closing price, and volume (ie number of stocks). This analysis determines the total daily volume for each stock (ticker) and the yearly return(color coded by positive or negative gains).      
 
-## Results & Analysis 
+## Results 
   The following images show the analysis result in Excel derived from the original code (top) and refactored code(bottom) for each year with pop-up windows showing run time for the execution of the code.
   
   - **2017 Stock Performance**
