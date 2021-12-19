@@ -7,7 +7,7 @@
   The following images show the snips of the excel wordsheet derived from the original code and refactored code for each year with pop-up windows showing run time for the execution of the code.
   
   - 2017 Stock Performance
-![2017 Original](https://github.com/nsmeltz/Module-2-Stock-Analysis/blob/16553dd62d3dbc7f707c5c20db96313ee8f33b55/Resources/2017_original.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![2017 Original](https://github.com/nsmeltz/Module-2-Stock-Analysis/blob/16553dd62d3dbc7f707c5c20db96313ee8f33b55/Resources/2017_original.png) {:style="float: right;margin-right: 7px;margin-top: 7px;"}
    
 ![alt text](https://github.com/nsmeltz/Module-2-Stock-Analysis/blob/e4ebac96b39ec2300f349af462cf71b2827291f3/Resources/2017_refactored.png)
  
