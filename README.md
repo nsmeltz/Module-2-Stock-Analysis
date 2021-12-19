@@ -21,8 +21,8 @@
 ## Analysis
   - **Stock Performance 2017 vs 2018**
 
-![TotalDailyVolume](https://github.com/nsmeltz/Module-2-Stock-Analysis/blob/e4ebac96b39ec2300f349af462cf71b2827291f3/Resources/2018_original.png)
-![YearlyReturn](https://github.com/nsmeltz/Module-2-Stock-Analysis/blob/e4ebac96b39ec2300f349af462cf71b2827291f3/Resources/2018_original.png)
+![TotalDailyVolume](https://github.com/nsmeltz/Module-2-Stock-Analysis/blob/6eeb04f64e5f1894c1299b495fd44df1a651f4ef/Resources/TotalDailyVolume.png)
+![YearlyReturn](https://github.com/nsmeltz/Module-2-Stock-Analysis/blob/6eeb04f64e5f1894c1299b495fd44df1a651f4ef/Resources/YearlyReturn.png)
 
 
     From the graphs above I can see two major trends: 1) the positive yearly returns are generally greater in 2017 than in 2018 and 2) the total daily volume of stocks dropped from 2017 to 2018. These trends suggest that the market for the analyzed stocks is falling between the years 2017-2018. However, there are two stocks that do not follow this trend, ENPH and RUN. Both of these stocks had positive returns and higher total daily volume in 2018 than 2017. The only stock to have a better return in 2018 than 2017 is RUN suggesting that this stock is growing and could be a good one to invest in.  
