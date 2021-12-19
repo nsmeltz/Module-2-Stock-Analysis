@@ -24,10 +24,10 @@
 ![TotalDailyVolume](https://github.com/nsmeltz/Module-2-Stock-Analysis/blob/6eeb04f64e5f1894c1299b495fd44df1a651f4ef/Resources/TotalDailyVolume.png)
 ![YearlyReturn](https://github.com/nsmeltz/Module-2-Stock-Analysis/blob/6eeb04f64e5f1894c1299b495fd44df1a651f4ef/Resources/YearlyReturn.png)
 
-
     From the graphs above I can see two major trends: 1) the positive yearly returns are generally greater in 2017 than in 2018 and 2) the total daily volume of stocks dropped from 2017 to 2018. These trends suggest that the market for the analyzed stocks is falling between the years 2017-2018. However, there are two stocks that do not follow this trend, ENPH and RUN. Both of these stocks had positive returns and higher total daily volume in 2018 than 2017. The only stock to have a better return in 2018 than 2017 is RUN suggesting that this stock is growing and could be a good one to invest in.  
       
-  - Code Performance Original vs Refactored
+  - **Code Performance Original vs Refactored**
+    The major change that I made between the original and refactored code was to write the calculated values(ticker, daily volume, and yearly return) into arrays then output the values into the appropriate cells after all loops were complete vs outputting them to the cells after every iteration of the inner for loop. The resulting run times for the original ve refactored code for this data set are not significantly different for either year. If I applied the two ways of outputting the result on a larger data set with more rows of data, it would probably make a much greater difference in run time. One thought I did have about using the timer function is that if you initialize the timer prior to the input box then your time data will include how much time it takes for the user to input the year into the box and the loops.  
   
 
 ## Summary 
