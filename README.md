@@ -1,10 +1,22 @@
 # Module-2-Stock-Analysis
 
-
 ## Overview of Project: Explain the purpose of this analysis.
+   The purpose of this analysis is to evaluate the stock performance. The client, Steve, is interersted in the performance of 12 specific stocks in 2017 and 2018. He has a    spreadseet of data that gives the ticker name of the stock, date, opening price, high price, low price, closing price, adjusted closing price, and volume (ie number of stocks). This analysis determines the total daily volume for each stock (ticker) and the yearly return(color coded by positive or negative gains).      
 
 ## Results & Analysis 
-  - Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+  The following images show the snips of the excel wordsheet derived from the original code and refactored code for each year with pop-up windows showing run time for the execution of the code.
+  - 2017 Stock Performance
+    - Original Code
+ !https://github.com/nsmeltz/Module-2-Stock-Analysis/blob/16553dd62d3dbc7f707c5c20db96313ee8f33b55/Resources/2017_original.png
+    - Refactored Code
+
+  - 2018 Stock Performance
+    - Original Code
+    - Refactored Code
+
+## Analysis
+  - Stock Performance 2017 vs 2018
+  - Code Performance Original vs Refactored
 
 ## Summary 
   - **What are the advantages or disadvantages of refactoring code?**
