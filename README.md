@@ -4,7 +4,7 @@
    The purpose of this analysis is to evaluate the stock performance. The client, Steve, is interersted in the performance of 12 specific stocks in 2017 and 2018. He has a    spreadseet of data that gives the ticker name of the stock, date, opening price, high price, low price, closing price, adjusted closing price, and volume (ie number of stocks). This analysis determines the total daily volume for each stock (ticker) and the yearly return(color coded by positive or negative gains).      
 
 ## Results & Analysis 
-  The following images show the snips of the excel wordsheet derived from the original code and refactored code for each year with pop-up windows showing run time for the execution of the code.
+  The following images show the analysis result in Excel derived from the original code (top) and refactored code(bottom) for each year with pop-up windows showing run time for the execution of the code.
   
   - 2017 Stock Performance
 
@@ -20,8 +20,14 @@
 
 ## Analysis
   - Stock Performance 2017 vs 2018
+
+
+
+
+    From the graphs above I can see two major trends: 1) the positive yearly returns are generally greater in 2017 than in 2018 and 2) the total daily volume of stocks dropped from 2017 to 2018. These trends suggest that the market for the analyzed stocks is falling between the years 2017-2018. However, there are two stocks that do not follow this trend, ENPH and RUN. Both of these stocks had positive returns and higher total daily volume in 2018 than 2017. The only stock to have a better return in 2018 than 2017 is RUN suggesting that this stock is growing and could be a good one to invest in.  
       
   - Code Performance Original vs Refactored
+  
 
 ## Summary 
   - **What are the advantages or disadvantages of refactoring code?**
